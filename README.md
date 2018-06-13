@@ -1,0 +1,2 @@
+# StatusCreator
+Create daily
