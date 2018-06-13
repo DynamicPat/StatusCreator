@@ -1,2 +1,2 @@
-# StatusCreator
+# ChromeExtensionSkeleton
 Create daily

@@ -1,3 +1,5 @@
-angular.module('statusCreator').controller('mainController', function ($scope){
-
+angular.module('app').controller('mainController', function ($scope){
+    $scope.clickHandler = function(){
+        alert("Wowee a click event!");
+    }
 })

@@ -1,1 +1,1 @@
-angular.module("statusCreator", []);
+angular.module("app", []);

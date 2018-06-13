@@ -1,17 +1,12 @@
 {
-    "name": "StatusCreator",
-    "description": "Enter in your desired and shared workflow items to send out a generic email template regarding your work status.",
+    "name": "Chrome Skeleton Project",
+    "description": "Example of a chrome skeleton project",
     "version": "1.0",
     "manifest_version": 2,
-    "background": {
-      "scripts": ["main.js"],
-      "persistent": false
-    },
     "permissions": [
         "activeTab"
       ],
     "browser_action": {
-        "default_title": "Create and Send Status Email",
         "default_icon": "images/email_icon.png",
         "default_popup": "index.html"
     },
